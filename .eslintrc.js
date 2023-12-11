@@ -27,5 +27,7 @@ module.exports = {
     'no-restricted-globals': 'off',
     'no-console': 'off',
     'no-continue': 'off',
+    'prefer-const': 'off',
+    'arrow-parens': 'off',
   },
 };
