@@ -1,0 +1,100 @@
+OO ##O #OO#  #O  ## #O#OOOOOOOO   #OOOOOOOOOO  #OOO  #OOOOOOOOOOOOOO      #OOOOOOO  #OOOO   #OOOO  #
+O  #OO    #O   #OOOOOO    #OOOOOOOO        #OOOO #O #OOO   #OO # ##OOOOOO #O#OO#OOOOOOOOOOO        #
+OOOO       #O #OO #OOOO     ## #O  #OO #OOOOOOOO     # #O  #OOOO          # #O #O#OO       #O#OOO   
+OO    ##OO      #O      #OO#OO   #OOOOOOOO        #O#OO #OO  #O  #  #OOOOOOOOOOOO             #OO  #
+#O  ###   #O#   #OOOO        ##O#OOOOOOOOOOOO             #OO   #O    #OO         # #      #OOOO    
+OOOO  #   # #O    #OOOOOO          ##OO      #OOOOOO  #OOO    ##OO          #OOO      ##OO        ##
+   # #      #  # # ##OO       #O ##OOO   #O  #OOOOOO      ###O#O  # #O    ##O  #O   #OO  #O  ##OO   
+OOO           #O#O##O   #O  #OOOOOOOOOOO               #OOOOO   ##OOO  ##O #OOOO          #O #O #OO 
+ #O         #OOOO #OO     #O  #OOOO     #OOOOOOOOOOOOO               #OOOO          #O #OOOO    #OO 
+#OOOOO            #OO     #O #O   # #OOO                ##OO   #OOOO     #O   ##OOOOOOOOOO          
+O   # #O          #OO      #OO  #OO                    #OOOO   ##OO        #OOOOOOOO                
+   #O  #    #O  ##    #OOO   #          #   #O# ##OOOO           ## # #O    ##OOOOOOO               
+O        ##OOOOOOOO         #   # #  ## #OOO         #OOO            #O# # #O#O         #OOO        
+   #     #   ##OO #O   #  #O    #   # # #        #OO         #     #O  #   #O  #     #O        #O#  
+##O   #O  ###OOOOOOO                          # ##OO            #O  #O# #O  #O   #   # #O   ##OOO  #
+ #O #O  #OOOO     ##O  # #O ##  # #OO       # ##O #O        #O #O#OOO #   #        #OO  #OOOOOO     
+#OOO       #O     ##OOOO       ##    #OOO             #  ##O   # ##O   #         #OO    #OOOO       
+ #O        #      ###  #OO            #   #   ###O##O #OO     #OOO    # ## ##OOOOO                 #
+O   #     #O    #OOOOO       #   # ##OO  #    #OOOOOO       #O   #   # #O                #O  #    #O
+OO     #OOOOOO           #O  # # #OO      #OO   #OOO    #OO  ####O   #        ##    #   #OO       #O
+O ##OO  ##O  ##OO    ##O  #      ##     #OOOOOOOOOOOO              # #  ###   #OOO            #  #O 
+OO #OOOOO     #OOO    #O       #OOOO                      #OO   #OO      #OO      #OOOO           #O
+  #   #OO  #OOOOO         #  #O #OO         #           # ##   #OO     #OO       #OOOO            #O
+#OO         #OOOO             #OO#O       #OOOOOOO         OO                                       
+O  #    #O  # #OO      #O       #O                  #OO           #        # ##     #   #O          
+  #O #  #  ###O  #O       #OO                      ## #         #OO ##  #    #O # #O #O       #  #O 
+O    #  #OOOO       ## # #O      #          # # #OO    #           #O           #OO         #OOO    
+#O   #  ##OOOOOO                                #         #        #      #   #OO              #OO #
+O#   # ###O      #   #O            #     #O   #O #    ##  # #   # #O            #           ###OOO  
+OOOO      ###O#OOOO                   #OOOO         #OOO     # #OO  # #   # #      #  ## #OOOO      
+         # #O           ##  #OO     #OO         #OOO        #  #OO  # #OOOO               #  #OO    
+OOO                #   #    #   #O## #O      ##O   ##O   ##OO       #      #      #OOOO             
+          #     ##O  #O     #OOOOOOOOO                   ###   #   # #                   ##OO       
+ #O         #   #    #OO      #OO        #O   ##OOO       #O       #O #   ###       ####O     ##O   
+O #   ##OO    #O      #OO         # #O #OOO             #    #    ##O #OO    #  # #OOO  # #O       #
+O   ##O  # #O   #OO        ##OO         #  #OOOO                    #OOOOOO            #O #OO       
+ #OOOO      #OO  #OO        ##     #   #OOO    #O      #    #     #  #     ##O  #OOO  #OOO        #O
+OO    #  #OO   ###OOOOOO                         #O          #   #OO    #O  #O   #OOOO        #OO   
+# ###OO   #  # #OO  #O      # ##OO               ###   #O      ##O #  #OO     ##OO    #O    ##OO# # 
+O       ##O#O #OOOO          #    ###     #O     #O     #O   #OOOO  ##OOOOO     #O # ###OOOOO   #O  
+# #     #OOOO       #O      #O #  #OO    #O #OO   #O    #OOOOOOOOO              #OOOOOOOOO          
+O       #OO      # ###OO      #OOOO      #O  ##O   #  #       #OOOO    #OOO      #OOOOOO           #
+   ##   # #OOO          # #OOOOO     # #OOOO     ##OO  ##OOO          ###OO      #OOOOOOO           
+        #OO      #OO        ##   #OO    #OOOO           ##       #OO         #OOO   # ## #OOOO      
+   #   #O   #OOOOO                   #OOO   ##      ##O ###  #   #OO          #O   #O    #OO     #  
+O   #  ##O   # #O       #    #  ## # #OO         #      ##O#OOO      #  #       #OOOOO            ##
+OOOO      #O  #O#OOO             # #OO          #O  #  #OOO   #OO                  #OO    ##O  #O# #
+O     #OO       #     #OO      #O #OOOOO          #    #O            #OOO                      # #O 
+# #OOO             #      #OO   #O#OO        #OO  ###          #O     ## #  ##      ##OO          # 
+#O  #O                #  #OOOO      #O#      #OOO  ## ##O            ##     ## #   #O        #   #O 
+O       #       #        #    #OOOOO  #    #OO     #OOO       #OO      #OO                         #
+O     ##     #O          #  # #OOOOO   #O    #OO     #OO          #O   ## #   # #    ##O          #O
+O    #O ##O   #O   #  #  ##OO      #  ##  #OOOOOO       #  ##O  # ## #OOO   ## # #O      ## #OO     
+OOO    #OOO                       ##OOOOO     #OOOO        #OO   ##OOOO  #OOO   #OOO       #OO      
+#OO    #         #   #OO      #O        #OOOO     #OOOOO          #   #OO# #OOO  # #OOOO       ##  #
+#O            #O  #O    # #       #    #OO  #O ##     #OO         #  ##O   #O#OO    #OOO     #OO    
+#O     #  # #OO   ##OO   #O#OOOOO               #   #          #O     #O   #O      #    #OO    #O   
+O     #OO    #OOO       #OOOOO          #O      # #        ##O   #  #OOOO    #      #O   #O  ##OO   
+# ##O # ##OOOOOO             ##  #O     #O       #    #OOOO       ##O#OO #O  #O      # #O#OOO     # 
+#O  #OOOOOO     #      #O  #OO  ##O                      #OOOOOO          ##OOOOOOOO           #    
+O      # #OOOOO                #O  #  #     #O          #OO             # #OOO           # ##O  #   
+      #O       #O  ##  #### #OOOO       #   #   #   ##O         #  ####OOOOOO                #O  #  
+ # #     #     #  #O #OO  ##O     #  ##     #   #OO     #O   #OOO       #OOOO              #O#      
+O #   #   # #O    ##O#  #OOO#OOO                        #O#O      #OOO   #       # #O      #O     # 
+#O #  #  #O# #OOO     #OOO  #O     #       #    #     # #OO  ##O #O ##O #OOO           #OO   #   ## 
+OOOO              ##O#O#OOO           ##OOOOOOOOOOO                     #            #OO        #O  
+O               ##O#OOO    ##   # # ## ##   #O       #O      #   #            #O             #O  #O#
+    # #    #OO     #O  #OO       ##  ##  # #OOOO           #O  # #  ##O         #       ##OOOOO     
+OO          ###OOO    #OO  #OOO    ##O###O#O  #O        #OOO     ##O #  #OO      #   #  #OOOOO      
+  ##O #OO     #OO #O ##OOO  #OOOOOOOO      ## #OOO               #OO      #O   #OO # # #OOOOO       
+OOOOOOOOOOOOO             ##OO   # #O   #OO            #  #O  ##O ##OOOOOOOO           #OOOO        
+OOO     #OOOO        #OOOO   #OO  ##OO    ## #    # #OO     #OOOO   #OO  ##  #    #OO    #OOOO      
+     # #   #OOOO    #OOOOOOOO                ##O   #O#OOOOOO           #O#OOO              #   #OO  
+   # ##   #OOOOOOO      #   ##OO   #O      #  #OO               # #OOOOO  # #  #OO   # #O     #OOO  
+OOO         #OOOOOOOO                  #OOO          # #O      #OOOOOOOOO            #  #OOOO      #
+#OOO           #O     ##O          #OOO     #O   ## ##OOO           #O     #O        # #OOO         
+OO    #O          #O #O#   ##      #  #O    #    #O    #OOO           #O        ##O     ##O    #OO  
+OOO    #    # #OOOOOOOO                      #O   # #OO           ###O    #  #O            # #OOOO  
+ #    #O    #OO      #  #OOOOO                     #OO##    ##O  #OOO               ##   #OOOO      
+O ##  #   #O    # ##OOO   #O   #   ## ##OOOOO               # #OO          # #   #  #   #OOOO       
+O ##OO     #O      #   #OOO        #O        #OO       #O             #O        ## #O     #O      # 
+O       #  #   #O    #O     # #O      ##OOO           #O# #OOOO                     #   ##O        #
+ # ##     #OO   ##   #OOOO       #   #O            #OOOOO    #    # #     # # #O          # #     #O
+##  #  #O   #OOO      #   #OOO     ####OOOOOO               #     #O      #  #      ##O     #OO     
+ #OO       #O #OOOOOOOOOOOOOO                                ###OOOOO                               
+#OOOO            # ##OOO        #O     #    #        ##O#OOOO    # #O     #O                    #OO 
+ #   #   #OO        #O    #O          ## #    ##   #O   #OO    #OO          ####     ##O       ###O 
+   #O #OO                 #  #O    #O  #OOOOO                ###O      ##O            #OO       ##O#
+OO               #    ###O        #OO   #O  #O          #OOOOO    #   ##O ##    ##O    #  #O    #OO 
+##  #O #   #    #  #OOO    ##O               ##OOOO               ##OOOO    ## #O  # #O         #O #
+ #  #O#OOOO             #OO  #    #       # #        ##     ##OO#OOOOOOOOO             ##OOOO       
+#O              #OO        ### ###O       #      #O     ##OOOOO      #O     #   # ##O        #OOO   
+OO               #O # ##OOOO   #O#   #          #OOOOOOOOOO             ##   #OOO     ##OO          
+O  #  # #  #OO    #O ##OOOO    #   ##O #  #       ##OOO             #  #OOO         #   # #  #  #O  
+OOOOOOOOO                    ##OO          # #OO            #  #   #O #OOO          #    ##OOO      
+ #O #OOOOOO             #OOO     # ##  ##OO     #  #  #    #OOO          ##  ##OOO                  
+OOO    #      #   ##OOO  #OO    #O# #OO          #O   ## #OOO      # #O#    #O  #  ##         #O    
+O #O    # # ##O  ##OOOOO  ## #OOOO     #   #    # #OOOO         ####OO   ##   #            #O  #  # 
+O  #OOOOO      # #  #  #OO         #O   #O  #OO         #OOOOO          #O#O       ##    ##OO       
+  ##       # #O #OO      #     #O     #OO     #        #         #O       #    #O   # ##  # #    #  

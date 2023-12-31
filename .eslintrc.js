@@ -29,5 +29,6 @@ module.exports = {
     'no-continue': 'off',
     'prefer-const': 'off',
     'arrow-parens': 'off',
+    'max-classes-per-file': 'off',
   },
 };

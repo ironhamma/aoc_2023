@@ -4,20 +4,19 @@ const tasknum = parseInt(process.argv.slice(3), 10);
 const TASK = !isNaN(tasknum) ? tasknum : 1;
 
 function isValid(line, numbers) {
-  const n = line.length;
   const runs = [];
 
   let i = 0;
-  while (i < n) {
-    while (i < n && !line[i]) {
+  while (i < line.length) {
+    while (i < line.length && !line[i]) {
       i += 1;
     }
-    if (i === n) {
+    if (i === line.length) {
       break;
     }
     let j = i;
     let c = 0;
-    while (j < n && line[j]) {
+    while (j < line.length && line[j]) {
       j += 1;
       c += 1;
     }
@@ -68,7 +67,7 @@ function getPossibilities(springs, numbers) {
 }
 
 (async () => {
-  const input = await readFileSync('./input.txt', 'utf-8').split('\n');
+  const input = await readFileSync('./test.txt', 'utf-8').split('\n');
 
   const lines = input.map(line => {
     const [springs, numbers] = line.split(' ');
